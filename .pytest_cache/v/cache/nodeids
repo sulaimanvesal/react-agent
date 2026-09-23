@@ -1,0 +1,13 @@
+[
+  "tests/test_react.py::test_all_demo_questions_reach_gold_answers",
+  "tests/test_react.py::test_lookup_returns_matching_sentence_and_advances",
+  "tests/test_react.py::test_lookup_without_search_reports_no_page",
+  "tests/test_react.py::test_loop_terminates_on_finish",
+  "tests/test_react.py::test_malformed_generation_reports_invalid_action",
+  "tests/test_react.py::test_max_steps_stops_loop",
+  "tests/test_react.py::test_prompt_contains_fewshot_trajectories",
+  "tests/test_react.py::test_search_exact_match_returns_page",
+  "tests/test_react.py::test_search_miss_suggests_similar_titles",
+  "tests/test_react.py::test_trajectory_steps_parse_correctly",
+  "tests/test_react.py::test_unknown_action_handled_gracefully"
+]
